@@ -3,7 +3,7 @@
 
 
 
-# Discord-Image-Generator🖼️
+# Discord Image Generator🖼️
 
 Hi! This program can generate images from a prompt and send on a discord channel (*or to an user directly*) using 2 different AI model generators.
 <img src="https://avatars.githubusercontent.com/u/1965106?s=200&v=4" alt="drawing" width="20"/>
@@ -59,11 +59,13 @@ My face 😊 (some stylish to polish the bot's visual - *all configurable on dis
 Unfortunatelly I used all my resources with stable difusion 3 model on cloud generation (and local models are so heavy and GPU demanding that I was not prepared to wait minutes to generate each image using this tool 😵‍💫)
 <img src="https://i.imgur.com/tX4onXE.png" alt="drawing" width="500"/>
 
-> But for science purposes, I have 1 example generated locally with Stable Diffusion 3:
-![](https://i.imgur.com/GzXoEGa.png)
+> But for science purposes, I have 2 examples generated locally with Stable Diffusion 3:
+
+<img src="https://i.imgur.com/GzXoEGa.png" alt="drawing" width="300"/>
+<img src="https://i.imgur.com/ppZEQcz.png" alt="drawing" width="300"/>
 
 
-*This example took 75minutes on a 3080TI @100% usage with 170 Watts (Pytorch and tensor models were not even optmized for my system)*
+*Each example took 75minutes on a 3080TI @100% usage with 170 Watts (Pytorch and tensor models were not even optmized for my system)*
 
 ### Hidden features:
 
