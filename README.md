@@ -24,9 +24,9 @@ Please check these 3 links and generate your keys:
 
 ## Main code has these functions
 
-- Generate image locally free but less porwerfull tool
+- Generate image locally free but less powerfull tool
 - Generate image with minimum cost but more porwerfull tool
-- Generate image locally free but more porwerfull tool
+- Generate image locally free and more powerfull tool
 
 *All of these will send to discord channel or user who sent the prompt*
 
